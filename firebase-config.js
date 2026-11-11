@@ -8,4 +8,4 @@ window.FIREBASE_CONFIG = {
   appId: "1:449434576639:web:b49639e2a159810ff38eca"
 };
 // Cloudflare Workers에서 생성한 HTTPS 접속주소. 끝에 /login 경로를 자동으로 붙입니다.
-window.AUTH_WORKER_URL = "https://여기에_WORKER_주소.workers.dev";
+window.AUTH_WORKER_URL = "https://suneung-auth-2027.zxcv7913.workers.dev";
